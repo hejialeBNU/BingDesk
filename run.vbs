@@ -1,1 +1,1 @@
-createobject("wscript.shell").run "D:\PythonPros\BingDesk\getPicViaBing.py",0
+createobject("wscript.shell").run ".\getPicViaBing.py",0
