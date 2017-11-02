@@ -1,0 +1,1 @@
+createobject("wscript.shell").run "D:\PythonPros\BingDesk\getPicViaBing.py",0
